@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AKSHAT SONKAR</h1>
 <h3 align="center">A passionate Software Engineer </h3>
-<img align="right" alt="coding" width="400" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcoding&psig=AOvVaw1ySxGkxblmaR-GCMlb1gnp&ust=1716188404326000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiPyJaSmYYDFQAAAAAdAAAAABAE![image](https://github.com/akshat-sonkar/Akshat-Sonkar/assets/152618076/1fb191eb-7878-4ea4-85e3-8f7118989b52)
-"
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-sonkar&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-sonkar" /> </p>
 
 - 🌱 I’m currently learning **DSA,React**
