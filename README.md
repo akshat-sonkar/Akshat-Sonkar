@@ -1,3 +1,4 @@
+![logo](https://github.com/akshat-sonkar/Akshat-Sonkar/blob/main/GITHUB.png)
 <h1 align="center">Hi 👋, I'm AKSHAT SONKAR</h1>
 <h3 align="center">A passionate Software Engineer </h3>
 
